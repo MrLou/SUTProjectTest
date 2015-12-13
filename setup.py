@@ -10,8 +10,8 @@ setup (
 
        # Fill in these to make your Egg ready for upload to
        # PyPI
-       author='Lu',
-       author_email='',
+       author='Lou Dasaro',
+       author_email='Lou.Dasaro@nbPython.org',
 
        #summary = 'Just another Python package for the cheese shop',
        url='',
